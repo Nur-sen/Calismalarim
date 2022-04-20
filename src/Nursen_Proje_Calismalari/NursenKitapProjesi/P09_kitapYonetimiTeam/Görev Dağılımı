@@ -1,0 +1,38 @@
+
+2 ana işlem menümüz olacaktır
+----------------------------------------------------------------------
+Kütüphane Yöneticisine ait Panel
+
+5.Nurşen ALkan -> Gerekli variable'ları oluşturuacak
+1.AliM.        -> Gerekli Class'ları oluşturuacak
+4.Selçuk Temel -> Gerekli Method'lari olusturucak
+2.Erva Yücedal -> Encapsulation ve Inheritance ilişkilerini kuracak
+3.Meryem Akay  -> Data olusturacak, kitap 1, kitap 2 gibi(Constr. üzerinden)
+----------------------------------------------------------------------
+1.kütüphane sahibinin kontrol edebilceği ve değişiklik yapabileceği datalar
+Yönetici isterse kitap ekleyip, silebilecek
+kitap listemizi de kendimiz hazırlayacağız
+ÖRNEK:
+Kitap kitap1 = new Kitap("Suç ve Ceza","Fyodor Dostoyevski","1866","20$");
+Kitap kitap2 = new Kitap("Savaş ve Barış ","Lev Tolstoy","1867","15$");
+Kitap kitap3 = new Kitap("Sefiller","Victor Hugo","1862","17$");
+
+-----------------------------------------------------------------------
+Müşteri Paneli
+
+1.Çiğdem Aynagöz -> Gerekli Class'ları oluşturacak
+2.Suna Erkan     -> Encapsulation ve Inheritance ilişkilerini kuracak
+3.Melih Cevher   -> Data olusturacak, müşteri 1, müşteri 2 gibi (Constr. üzerinden)
+4.Gülşen Genç    -> Gerekli Method'lari olusturucak
+5.Asım M.Başaran -> Gerekli variable'ları oluşturuacak
+----------------------------------------------------------------------
+2.müşterilerin göreebileceği, sepete ekleme yapabileceği gibi işlemler
+Müşteri listemizi kendimiz hazırlayacağız
+Müşteri ise sadece bunları listeleyecek veya alabilecek
+ÖRNEK:
+Müşteri mştr1 = new Müşteri("Ali Can",müşteriNo,"borç yok");      ( borç fonksiyonu opsiyonel)
+Müşteri mştr2 = new Müşteri("Ali Kan",müşteriNo,"borç var-100$"); ( borç fonksiyonu opsiyonel)
+Müşteri mştr3 = new Müşteri("Veli Han",müşteriNo,"borç var-20$"); ( borç fonksiyonu opsiyonel)
+
+
+

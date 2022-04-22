@@ -18,6 +18,7 @@ public class YildaKacSekerKullanimi {
         int cayBardagi=scan.nextInt();
         System.out.print("Bir bardaga kac seker atiyorsunuz: ");
         double sekerKullanimi=scan.nextDouble();
+
         double birSeker=1.7 ;
 
         sekerKullanimi*=birSeker;

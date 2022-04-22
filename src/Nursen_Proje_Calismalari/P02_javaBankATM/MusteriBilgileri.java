@@ -6,6 +6,8 @@ public class MusteriBilgileri {
     private String iban;
 
 
+
+
     public MusteriBilgileri(String isim, String soyad, String iban) {
         this.isim = isim;
         this.soyad = soyad;

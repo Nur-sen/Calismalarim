@@ -4,7 +4,6 @@ public class VerilendegerlerinYeriniDegistirmeSwap {
     public static void main(String[] args) {
         /*
         Verilen iki degerin degerlerini degistiriniz. Mulakat Sorusu(Swap)
-
        int a= 3;
        int b= 5;
        Ornek Cikti:
@@ -13,7 +12,9 @@ public class VerilendegerlerinYeriniDegistirmeSwap {
          */
         int a=3;
         int b=5;
+
         System.out.println("Swaptan once : " + " a= " + a + " b= " + b);
+
         int temp=b;
          b=a;
          a=temp;

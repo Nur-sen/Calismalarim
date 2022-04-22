@@ -1,7 +1,6 @@
 package Nursen_Proje_Calismalari.HastaneProje;
 
-import JavaProjects.P08_HastaneOtomasyon.Doktor;
-import JavaProjects.P08_HastaneOtomasyon.Hasta;
+
 
 public class Hastane extends VeriBankasi{
     private Doktor doktor;

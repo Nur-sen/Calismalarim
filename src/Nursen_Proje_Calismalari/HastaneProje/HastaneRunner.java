@@ -1,6 +1,6 @@
 package Nursen_Proje_Calismalari.HastaneProje;
 
-import JavaProjects.P08_HastaneOtomasyon.Doktor;
+
 
 public class HastaneRunner {
 

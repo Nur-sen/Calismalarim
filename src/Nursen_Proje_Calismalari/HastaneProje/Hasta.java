@@ -3,7 +3,6 @@ package Nursen_Proje_Calismalari.HastaneProje;
 public class Hasta {
     private String isim;
     private String soyIsim;
-
     private int hastaID;
     private Durum hastaDurumu;
 

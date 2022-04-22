@@ -1,6 +1,7 @@
 package Nursen_Proje_Calismalari.HastaneProje;
 
 public class Doktor {
+
     private String isim;
     private String soyIsim;
     private String unvan;

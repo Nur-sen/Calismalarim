@@ -6,6 +6,7 @@ public class Hastane extends VeriBankasi{
     private Doktor doktor;
     private Hasta hasta;
 
+
     public Doktor getDoktor() {
         return doktor;
     }

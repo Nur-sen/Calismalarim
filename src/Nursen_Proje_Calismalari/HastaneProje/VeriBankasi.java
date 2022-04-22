@@ -13,7 +13,7 @@ public class VeriBankasi {
     String[] hastaSoyIsimleri= { "Traven", "William", "George", "Tristan", "Luis",
             "Cole"};
 
-    String[] durumlar= { "Allerji", "Bas agrisi", "Diabet", "Soguk alginligi", "Migren",
+    String[] hastaDurumu= { "Allerji", "Bas agrisi", "Diabet", "Soguk alginligi", "Migren",
             "Kalp hastaliklari"};
     int [] hastaIDleri = {111,222,333,444,555,666};
 

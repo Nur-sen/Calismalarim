@@ -1,4 +1,4 @@
-package Replit;
+package ReplitScanner;
 
 public class VerilendegerlerinYeriniDegistirmeSwap {
     public static void main(String[] args) {

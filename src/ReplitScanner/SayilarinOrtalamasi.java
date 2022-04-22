@@ -1,4 +1,4 @@
-package Replit;
+package ReplitScanner;
 
 public class SayilarinOrtalamasi {
     public static void main(String[] args) {

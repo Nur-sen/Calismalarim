@@ -1,4 +1,4 @@
-package Replit;
+package ReplitScanner;
 
 public class DikdortgenAlanVeCevreHeseplama {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Replit;
+package ReplitFoorLoop;
 
 import java.util.Scanner;
 

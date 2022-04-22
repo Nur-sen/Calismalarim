@@ -1,4 +1,4 @@
-package Replit;
+package ReplitScanner;
 
 import java.util.Scanner;
 
@@ -17,6 +17,7 @@ public class DikdortgeninAlanVeCevreHesaplamasi {
         Scanner scan=new Scanner(System.in);
         System.out.print("Uzun kenari girin= ");
         int uzunKenar=scan.nextInt();
+
         System.out.print("Kisa kenari girin= ");
         int kisaKenar=scan.nextInt();
 

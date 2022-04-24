@@ -143,7 +143,6 @@ public class islemler {
 
     public  static void hastaninOncelikDurumu() {
         System.out.println("***** HASTA ONCELIK DURUM BOLUMU *****");
-        scan.next();//dummy
         System.out.println("Hastanin durumunu ogrenmek icin hasta sikayetini secin " +
                 "\n==> Allerji icin 1'i \n==> Bas agrisi 2'i" +
                 "\n==> Diabet icin 3'u \n==> Soguk alginligi icin 4'u " +

@@ -33,7 +33,6 @@ public class SayilarinToplami {
         sayi/=10;
 
 
-
         System.out.println("Verilen tamsayinin rakamlari toplami= " + rakamlarToplami);
 
 

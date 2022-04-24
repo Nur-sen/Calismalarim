@@ -49,12 +49,11 @@ public class Hasta1 {
 
     @Override
     public String toString() {
-        return "Hasta1{" +
+        return
                 "hastaIsmi='" + hastaIsmi + '\'' +
                 ", hastaSoyIsmi='" + hastaSoyIsmi + '\'' +
                 ", hastaDurumu='" + hastaDurumu + '\'' +
-                ", hastaIDNo=" + hastaIDNo +
-                '}';
+                ", hastaIDNo=" + hastaIDNo;
     }
 }
 

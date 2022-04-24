@@ -47,11 +47,10 @@ public class Doktor {
 
     @Override
     public String toString() {
-        return "Doktor{" +" Doktor sicil no: " + doktorSicilNo+
+        return " Doktor sicil no: " + doktorSicilNo+
                 " doktorIsmi='" + doktorIsmi + '\'' +
                 ", doktorSoyIsmi='" + doktorSoyIsmi + '\'' +
-                ", brans='" + brans + '\'' +
-                '}';
+                ", brans='" + brans ;
     }
 
 
